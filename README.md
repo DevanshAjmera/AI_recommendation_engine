@@ -12,5 +12,6 @@ An intelligent e-commerce recommendation system built with Streamlit.
 https://recommendation-engine-ecommerce.streamlit.app/
 
 ## Installation
+
 pip install -r requirements.txt
 streamlit run app.py

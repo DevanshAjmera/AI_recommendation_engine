@@ -9,7 +9,7 @@ An intelligent e-commerce recommendation system built with Streamlit.
 - Real-time product search
 
 ## Live Demo
-
+https://recommendation-engine-ecommerce.streamlit.app/
 
 ## Installation
 pip install -r requirements.txt
